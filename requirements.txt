@@ -1,0 +1,11 @@
+pandas
+numpy
+psycopg2-binary
+requests
+torch
+transformers
+accelerate
+bitsandbytes
+scikit-learn
+tqdm
+dotenv
